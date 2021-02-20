@@ -1,0 +1,66 @@
+.nav-link{
+margin-right: 120px !important;
+color: blanchedalmond !important;
+font-size:10px !important ;}
+.collapse {
+    background-color: black  !important;
+}
+.navbar{
+    background-color: black !important;
+}
+.navbar-brand{
+    color: white !important;
+
+}
+.navImg{
+    margin-right: 80px;
+}
+.humbourger{
+    background-color: black;
+}
+.navImg{
+    margin-top: -120px;
+}
+.Message0{
+    margin-top: 50px;
+    margin-left: -450px;
+    color: white;
+}
+.Message1{
+    margin-left: -450px;
+    font-weight: bold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.card0{
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border: white;
+
+}
+.top{
+    margin-top: -35px;
+}
+.back{
+    background: #FAF5F4;
+}
+.floap{
+    margin-top: -22px;
+}
+.titreCard{
+    font-size: 10px;
+}
+.textCard{
+    font-size: 8px;
+}
+.ImgMarg{
+    margin-top: 30px;
+}
+.card1{
+    margin-top: 70px;
+}
+.Menu1{
+    margin-top: 70px;
+}
